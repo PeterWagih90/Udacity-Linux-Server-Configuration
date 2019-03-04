@@ -47,7 +47,7 @@
     `$ sudo apt-get upgrade`
     `$ sudo apt-get install finger`
 #### Keygen
-12. In a new terminal, `$ ssh-keygen -f ~/.ssh/grader.rsa
+12. In a new terminal, `$ ssh-keygen -f ~/.ssh/grader.rsa with password 852456
 13. `$ cat ~/.ssh/grader.pub`
 14. In the original terminal, `$ cd /home/grader`
 15. `$ mkdir .ssh`
