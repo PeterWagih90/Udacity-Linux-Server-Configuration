@@ -36,7 +36,7 @@
 5. Place private key in .ssh
 6. `$ chmod 600 ~/.ssh/LightsailDefaultPrivateKey-us-east-2.pem`
 7. `$ ssh -i ~/.ssh/LightsailDefaultPrivateKey-us-east-2.pem ubuntu@18.195.32.138 `
-#### Create new account grader
+#### Create new account grader with password 852456
 8. `$ sudo su -`
 9. `$ sudo nano /etc/sudoers.d/grader`
     Add `grader ALL=(ALL:ALL) ALL`
