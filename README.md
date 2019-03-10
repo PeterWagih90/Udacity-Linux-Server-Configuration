@@ -171,3 +171,11 @@
 ### References:
 https://github.com/callforsky/udacity-linux-configuration  
 https://github.com/mulligan121/Udacity-Linux-Configuration
+
+### Screenshots:
+
+![](screenshots/site1.png)
+![](screenshots/site2.png)
+![](screenshots/site3.png)
+![](screenshots/site4.png)
+![](screenshots/site5.png)
